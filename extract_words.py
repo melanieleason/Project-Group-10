@@ -1,5 +1,6 @@
 import re
 from collections import Counter
+import operator
 from pprint import pprint
 
 def main():
@@ -33,8 +34,9 @@ def main():
 			for v1 in cnt.values():
 				if k == v1:
 					freq_words[k] +=1
+		freq_words = sorted(freq_words.items())
 		# print(freq_words)
-		for k, v in freq_words.items():
+		for k, v in freq_words:
 			f.write(str(k) + ": " + str(v) + "\n")
 		
 
