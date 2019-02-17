@@ -7,7 +7,7 @@ Extract_words.py
 It basically extract all files in the PeterPan.txt and generate three files which include all words.txt, uniquewords.txt and wordfrequency.txt. All of the words in these three files appear in the novel Peter Pan.
 
 a3_wordfrequency.pde
-With the data from the word frequency.txt, we create a bar graph to show the word frequency appeared in the PeterPan. This showed the distribution of the words in a more visually appealing manner. If the word frequency is very low, we used certain value to measure the size of bar graph. Moreover, the color value will be a increasing value, so the color will slowly changed and in the end, it will be the blue.
+With the data from the word frequency.txt, we create a bar graph to show the word frequency appeared in the PeterPan. This showed the distribution of the words in a more visually appealing manner. Since there a lot of words apperaed once or twice and it will be to large on the graph so we decided to divide the amount by 5 and assign it to the variable f.If the word frequency is very low, we set a  certain value to measure the size of bar graph. Moreover, the color value will be a increasing value, so the color will slowly changed and in the end, it will be the blue.
 
 a3_uniquewords.py
 
