@@ -56,7 +56,7 @@ void draw()
 
 
     rectMode(RADIUS);
-    rect(z+4, 350, 4, f); 
+    rect(375, z+4, f, 4); 
     
     z = z + 8;
   
