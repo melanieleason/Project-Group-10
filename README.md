@@ -6,4 +6,4 @@ For Assignment 3, the first thing that needs to be checked is that all the files
 
 Once this is checked, run extract_words.py and it will generate allwords.txt, uniquewords.txt, and wordfrequency.txt.
 
-Then, open the a3_novelvisualization.pde and a3_wordfrequency.pde files in the Processing and hit the 'play' button.  This will produce a word cloud and a scatter-plot graph.
+Then, open the a3_novelvisualization.pde and a3_wordfrequency.pde files in the Processing and hit the 'play' button.  This will produce a word cloud and a bar graph.
