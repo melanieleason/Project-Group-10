@@ -16,7 +16,7 @@ void setup() {
   textSize(20);
   textAlign(LEFT);
   
-  for (int i=0; i < 10; i++){
+  for (int i=0; i < line.length; i++){
     if (y == 600) {
       break;
     }
@@ -25,7 +25,7 @@ void setup() {
     print(line[r].length());
     text(line[r], x, y);
     if (x + 100 < 700) {
-      x+= (line[r].length()) + 76;
+      x+= (line[r].length());
     }
     else {
       x = 10;
