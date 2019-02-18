@@ -3,13 +3,18 @@ Group 10 assignment3
 For assignment3, we chose “Peter Pan” as our txt file.
 
 
-Extract_words.py
-It basically extract all files in the PeterPan.txt and generate three files which include all words.txt, uniquewords.txt and wordfrequency.txt. All of the words in these three files appear in the novel Peter Pan.
+# Extract_words.py Script
+We made a script that basically extracts information from the PeterPan.txt text file and generates three files which include all words.txt, uniquewords.txt, and wordfrequency.txt. All of the words in these three files appear in the novel Peter Pan.
+Allwords.txt is a file that has every word from the text (including duplicates) separated by newlines. Uniquewords.txt is allwords.txt but without duplicates, and wordfrequency.txt has the number of occurences of the words in the text.
 
-a3_wordfrequency.pde
-With the data from the word frequency.txt, we create a bar graph to show the word frequency appeared in the PeterPan. This showed the distribution of the words in a more visually appealing manner. Since there a lot of words apperaed once or twice and it will be to large on the graph so we decided to divide the amount by 5 and assign it to the variable f.If the word frequency is very low, we set a  certain value to measure the size of bar graph. Moreover, the color value will be a increasing value, so the color will slowly changed and in the end, it will be the blue.
+# Word Frequency Graph
+With the data from the wordfrequency.txt, we create a bar graph to show the word frequency appeared in the PeterPan. This showed the distribution of the words in a more visually appealing manner. Since there are a lot of words that appeared once or twice and it would be to large on the graph, we decided to divide the amount by 5 and assign it to the variable f. If the word frequency is very low, we set a  certain value to measure the size of bar graph. Moreover, the color value will be an increasing value, so the color will slowly changed and in the end, it will be blue.
 
-a3_uniquewords.py
+# Wordle
+We made a wordle word cloud image that is a colorful composition of the most frequent words that appear in the PeterPan,txt text file. The bigger the words, the more frequently they appear in the text. 
+
+# Unique Words Visualization
+This is another colorful visualization of the text that basically takes in all of the unique words form the uniquewords.txt file and tries to fit as many of them as possible in a 600x700 window. The unique words chosen to be displayed are random and 
 
 
 
