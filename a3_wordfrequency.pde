@@ -32,7 +32,7 @@ void draw()
   int z = 0;
   color a = color(20,x,y,200);
   x +=8;
-  y +=2;   
+  y +=15;   
   for (int i = 0; i < wordfrequency.length; i = i+1) 
   {
     
@@ -56,7 +56,7 @@ void draw()
 
 
     rectMode(RADIUS);
-    rect(375, z+5, f, 5); 
+    rect(375, z+6, f, 5); 
     
     z = z + 10;
   
