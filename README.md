@@ -2,7 +2,7 @@
 MELANIE, YANG, HELEN
 
 # Group 10 assignment3
-For Assignment 3, the first thing that needs to be checked is that all the files (extract_words.py,allwords.txt, PeterPan.txt, and PeterPan.wordle.png ) are in the same folder (group_10_assignment3).
+For Assignment 3, the first thing that needs to be checked is that all the files (extract_words.py,allwords.txt, PeterPan.txt,a3_descriotion,Readme.md and PeterPan.wordle.png ) are in the same folder .
 
 Once this is checked, run extract_words.py and it will generate allwords.txt, uniquewords.txt, and wordfrequency.txt.
 
