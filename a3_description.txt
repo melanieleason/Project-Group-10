@@ -17,7 +17,12 @@ We made a wordle word cloud image that is a colorful composition of the most fre
 This is another colorful visualization of the text that basically takes in all of the unique words form the uniquewords.txt file and tries to fit as many of them as possible in a 600x700 window. The unique words chosen to be displayed are random and 
 
 
-
-
+# Group Parts
+Helen:
+- Did the parts of the python script that generated the uniquewords.txt and the frequencywords.txt, and wrote part of the description and the README.
+Melanie:
+- Did the part of the python script that generated the allwords.txt and did the uniquewords visualization in processing, and wrote part of the README.
+Yang:
+- Created the wordle word cloud and the frequency chart in processing, and wrote part of the README and description.
 
 
