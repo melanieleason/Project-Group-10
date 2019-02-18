@@ -14,7 +14,7 @@ With the data from the wordfrequency.txt, we create a bar graph to show the word
 We made a wordle word cloud image that is a colorful composition of the most frequent words that appear in the PeterPan,txt text file. The bigger the words, the more frequently they appear in the text. 
 
 # Unique Words Visualization
-This is another colorful visualization of the text that basically takes in all of the unique words form the uniquewords.txt file and tries to fit as many of them as possible in a 600x700 window. The unique words chosen to be displayed are random and 
+This is another colorful visualization of the text that basically takes in all of the unique words form the uniquewords.txt file and tries to fit as many of them as possible in a 600x700 window. The unique words chosen to be displayed are random. We decided to use the Chalkboard-bold font size 20 because it is readable and it looks fun and pleasing to the eye. We went with the colors red, blue, and purple color scheme because we all liked those colors and purple comes from blue and red. We decided to just make the colors alternate becaus it is more random and it looks nicer in our opinion. 
 
 
 # Group Parts
